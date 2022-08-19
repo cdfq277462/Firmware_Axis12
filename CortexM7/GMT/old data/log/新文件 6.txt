@@ -1,0 +1,56 @@
+start moveLout :      0
+      0
+66.4236
+      0
+     -0
+      0
+posei :      0
+      0
+66.4236
+      0
+     -0
+      0
+moveLout :      0
+      0
+66.4236
+      0
+     -0
+      0
+out.trajp :      0
+      0
+66.4236
+      0
+     -0
+      0
+__iter :1
+out.is_finished :0
+__return_message3 :2
+           0
+-7.40701e+06
+           0
+          -0
+           0
+__iter :2
+out.is_finished :0
+__return_message3 :2
+start moveLout :           0
+           0
+-7.40701e+06
+           0
+          -0
+           0
+finish moveLout :           0
+           0
+-7.40701e+06
+           0
+          -0
+           0
+out.trajp :           0
+           0
+-7.40701e+06
+           0
+          -0
+           0
+__iter :3
+out.is_finished :1
+

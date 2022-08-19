@@ -1,0 +1,103 @@
+start moveLout :      0
+      0
+66.4236
+      0
+     -0
+      0
+rstart :1 0 0
+0 1 0
+0 0 1
+pstart :      0
+      0
+66.4236
+pend :      0
+      0
+66.4236
+s :0
+ri :1 0 0
+0 1 0
+0 0 1
+pi :      0
+      0
+66.4236
+traji :      0
+      0
+66.4236
+posei :      0
+      0
+66.4236
+      0
+     -0
+      0
+moveLout :      0
+      0
+66.4236
+      0
+     -0
+      0
+out.trajp 2:      0
+      0
+66.4236
+      0
+     -0
+      0
+__iter :1
+out.is_finished :0
+__return_message3 :2
+0 1 0
+0 0 1
+pi :           0
+           0
+-5.92579e+07
+traji :           0
+           0
+-5.92579e+07
+posei :           0
+           0
+-5.92579e+07
+           0
+          -0
+           0
+moveLout :           0
+           0
+-5.92579e+07
+           0
+          -0
+           0
+out.trajp 2:           0
+           0
+-5.92579e+07
+           0
+          -0
+           0
+__iter :2
+out.is_finished :0
+__return_message3 :2
+move L
+out.trajp 1:           0
+           0
+-5.92579e+07
+           0
+          -0
+           0
+start moveLout :           0
+           0
+-5.92579e+07
+           0
+          -0
+           0
+finish moveLout :           0
+           0
+-5.92579e+07
+           0
+          -0
+           0
+out.trajp 2:           0
+           0
+-5.92579e+07
+           0
+          -0
+           0
+__iter :3
+out.is_finished :1
+
